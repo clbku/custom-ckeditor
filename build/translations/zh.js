@@ -1,0 +1,1 @@
+(function(d){d['zh']=Object.assign(d['zh']||{},{a:"黃色標記",b:"綠色標記",c:"粉色標記",d:"藍色標記",e:"紅色筆",f:"綠色筆",g:"清除高亮",h:"高亮",i:"Text highlight toolbar",j:"粗體",k:"斜體",l:"底線",m:"代碼",n:"刪除線",o:"Dropdown toolbar",p:"豐富文字編輯器，%0",q:"取消",r:"重做",s:"Editor toolbar",t:"Show more items",u:"%0/%1",v:"上一",w:"下一"})})(window.CKEDITOR_TRANSLATIONS||(window.CKEDITOR_TRANSLATIONS={}));
